@@ -1,0 +1,153 @@
+{
+  "autoLightData": {
+    "isAutoLightEnabled": false,
+    "timeProgress": 0.5,
+    "minutesInDay": 10
+  },
+  "saveObjectContainers": [
+    {
+      "saveObjects": {
+        "objectId": 25,
+        "instanceId": -200001,
+        "modedObjectId": "",
+        "localId": 1,
+        "parentId": -1,
+        "position": { "x": 0.0, "y": -4.0, "z": 0.0 },
+        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 },
+        "scale": { "x": 15.0, "y": 0.8, "z": 1.0 },
+        "color": { "r": 0.3, "g": 0.3, "b": 0.3, "a": 1.0 },
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "orderLayer": 0,
+        "gravity": false,
+        "freezed": true,
+        "rotationFrozen": true,
+        "notBreakable": true,
+        "isMeltable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "humanData": [], "mechanicData": [], "brokenJoints": [], "hingeJoints": [], "distJoints": [], "constraints": []
+      }
+    },
+    {
+      "saveObjects": {
+        "objectId": 25,
+        "instanceId": -200002,
+        "modedObjectId": "",
+        "localId": 2,
+        "parentId": -1,
+        "position": { "x": -4.5, "y": 0.0, "z": 0.0 },
+        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 },
+        "scale": { "x": 0.6, "y": 8.0, "z": 1.0 },
+        "color": { "r": 0.8, "g": 0.8, "b": 0.8, "a": 1.0 },
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "orderLayer": 1,
+        "gravity": false,
+        "freezed": true,
+        "rotationFrozen": true,
+        "notBreakable": true,
+        "isMeltable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "humanData": [], "mechanicData": [], "brokenJoints": [], "hingeJoints": [], "distJoints": [], "constraints": []
+      }
+    },
+    {
+      "saveObjects": {
+        "objectId": 25,
+        "instanceId": -200003,
+        "modedObjectId": "",
+        "localId": 3,
+        "parentId": -1,
+        "position": { "x": 4.5, "y": 0.0, "z": 0.0 },
+        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 },
+        "scale": { "x": 0.6, "y": 8.0, "z": 1.0 },
+        "color": { "r": 0.8, "g": 0.8, "b": 0.8, "a": 1.0 },
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "orderLayer": 1,
+        "gravity": false,
+        "freezed": true,
+        "rotationFrozen": true,
+        "notBreakable": true,
+        "isMeltable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "humanData": [], "mechanicData": [], "brokenJoints": [], "hingeJoints": [], "distJoints": [], "constraints": []
+      }
+    },
+    {
+      "saveObjects": {
+        "objectId": 25,
+        "instanceId": -200004,
+        "modedObjectId": "",
+        "localId": 4,
+        "parentId": -1,
+        "position": { "x": 0.0, "y": 4.0, "z": 0.0 },
+        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 },
+        "scale": { "x": 16.0, "y": 1.2, "z": 1.0 },
+        "color": { "r": 0.9, "g": 0.1, "b": 0.1, "a": 1.0 },
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "orderLayer": 2,
+        "gravity": false,
+        "freezed": true,
+        "rotationFrozen": true,
+        "notBreakable": true,
+        "isMeltable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "humanData": [], "mechanicData": [], "brokenJoints": [], "hingeJoints": [], "distJoints": [], "constraints": []
+      }
+    },
+    {
+      "saveObjects": {
+        "objectId": 25,
+        "instanceId": -200005,
+        "modedObjectId": "",
+        "localId": 5,
+        "parentId": -1,
+        "position": { "x": -1.5, "y": -3.0, "z": 0.0 },
+        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 },
+        "scale": { "x": 1.2, "y": 2.2, "z": 1.0 },
+        "color": { "r": 0.1, "g": 0.7, "b": 0.3, "a": 1.0 },
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "orderLayer": 3,
+        "gravity": true,
+        "freezed": false,
+        "rotationFrozen": false,
+        "notBreakable": false,
+        "isMeltable": true,
+        "isHuman": false,
+        "isActivationForced": false,
+        "humanData": [], "mechanicData": [], "brokenJoints": [], "hingeJoints": [], "distJoints": [], "constraints": []
+      }
+    },
+    {
+      "saveObjects": {
+        "objectId": 25,
+        "instanceId": -200006,
+        "modedObjectId": "",
+        "localId": 6,
+        "parentId": -1,
+        "position": { "x": 1.5, "y": -3.0, "z": 0.0 },
+        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 },
+        "scale": { "x": 1.2, "y": 2.2, "z": 1.0 },
+        "color": { "r": 0.1, "g": 0.7, "b": 0.3, "a": 1.0 },
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "orderLayer": 3,
+        "gravity": true,
+        "freezed": false,
+        "rotationFrozen": false,
+        "notBreakable": false,
+        "isMeltable": true,
+        "isHuman": false,
+        "isActivationForced": false,
+        "humanData": [], "mechanicData": [], "brokenJoints": [], "hingeJoints": [], "distJoints": [], "constraints": []
+      }
+    }
+  ]
+}
